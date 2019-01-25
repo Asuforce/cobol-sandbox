@@ -13,5 +13,5 @@ $ brew install open-cobol
 
 ```sh
 # Compile cobol
-$ cobc -x -o <file-name> <file-name>.cbl
+$ cobc -x -o build/<file-name> <file-name>.cbl
 ```
